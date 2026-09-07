@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KryptonROM/logo/file_0000000013f88210ad67241888286452.png" alt="KryptonROM Logo" width="700">
+  <img src="KryptonROM/Logo/file_0000000013f88210ad67241888286452.png" alt="KryptonROM Logo" width="700">
 </p>
 
 # ⚡ KryptonROM
