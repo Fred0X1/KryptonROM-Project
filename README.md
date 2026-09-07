@@ -25,8 +25,8 @@ Below are the available custom builds and base ports for **Galaxy A52s 5G**:
 | **Galaxy S23 FE** | **One UI 6.x** | [Soon...](#) |
 | **Galaxy S23 FE** | **One UI 7.0** | [Soon...](#) |
 | **Galaxy A73 5G** | **One UI 6.x** | [Soon...](#) |
-| **Galaxy S26 FE** | **One UI 8.x** | [Soon...](#) |
-| **Galaxy S26 FE** | **One UI 8.5** | [Soon...](#) |
+| **Galaxy S23 Ultra** | **One UI 8.x** | [Soon...](#) |
+| **Galaxy S23 Ultra** | **One UI 8.5** | [Soon...](#) |
 
 ---
 
