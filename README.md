@@ -39,7 +39,7 @@ Select a **One UI Version** below to reveal available target bases and download 
 <summary><b>🔹 One UI 6</b></summary>
 <br>
 
-* **Galaxy S21 FE Base:** [Soon...](#)
+* **Galaxy S21 FE Base:** [Download](https://gofile.io/d/cBRtYgSa)
 * **Galaxy S23 FE Base:** [Soon...](#)
 * **Galaxy A73 Base:** [Soon...](#)
 * **Galaxy S23 Ultra Base:** [Soon...](#)
