@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="QuantumROM/logo/file_0000000013f88210ad67241888286452.png" alt="KryptonROM Logo" width="700">
+  <img src="KryptonROM/logo/file_0000000013f88210ad67241888286452.png" alt="KryptonROM Logo" width="700">
 </p>
 
 # ⚡ KryptonROM
@@ -16,17 +16,65 @@
 
 ## 📱 Supported Device: Galaxy A52s 5G (SM-A528B)
 
-Below are the available custom builds and base ports for **Galaxy A52s 5G**:
+Select a **One UI Version** below to reveal available target bases and download links:
 
-| Base Device | One UI Version | Status / Download Link |
-| :--- | :--- | :--- |
-| **Galaxy S21 FE** | **One UI 5.x** | [Soon...](#) |
-| **Galaxy S21 FE** | **One UI 6.x** | [Soon...](#) |
-| **Galaxy S23 FE** | **One UI 6.x** | [Soon...](#) |
-| **Galaxy S23 FE** | **One UI 7.0** | [Soon...](#) |
-| **Galaxy A73 5G** | **One UI 6.x** | [Soon...](#) |
-| **Galaxy S23 Ultra** | **One UI 8.x** | [Soon...](#) |
-| **Galaxy S23 Ultra** | **One UI 8.5** | [Soon...](#) |
+<details>
+<summary><b>🔹 One UI 4</b></summary>
+<br>
+
+* **Galaxy A73 Base:** [Soon...](#)
+* **Galaxy A52s Base:** [Soon...](#)
+
+</details>
+
+<details>
+<summary><b>🔹 One UI 5</b></summary>
+<br>
+
+* **Galaxy A52s Base:** [Soon...](#)
+
+</details>
+
+<details>
+<summary><b>🔹 One UI 6</b></summary>
+<br>
+
+* **Galaxy S21 FE Base:** [Soon...](#)
+* **Galaxy S23 FE Base:** [Soon...](#)
+* **Galaxy A73 Base:** [Soon...](#)
+* **Galaxy S23 Ultra Base:** [Soon...](#)
+
+</details>
+
+<details>
+<summary><b>🔹 One UI 7</b></summary>
+<br>
+
+* **Galaxy S21 FE Base:** [Soon...](#)
+* **Galaxy S23 FE Base:** [Soon...](#)
+* **Galaxy A73 Base:** [Soon...](#)
+* **Galaxy S23 Ultra Base:** [Soon...](#)
+
+</details>
+
+<details>
+<summary><b>🔹 One UI 8</b></summary>
+<br>
+
+* **Galaxy A73 Base:** [Soon...](#)
+* **Galaxy S26 FE Base:** [Soon...](#)
+* **Galaxy S26 Ultra Base:** [Soon...](#)
+
+</details>
+
+<details>
+<summary><b>🔹 One UI 8.5</b></summary>
+<br>
+
+* **Galaxy S26 FE Base:** [Soon...](#)
+* **Galaxy S26 Ultra Base:** [Soon...](#)
+
+</details>
 
 ---
 
